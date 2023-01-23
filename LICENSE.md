@@ -1,6 +1,6 @@
 # MIT License
 
-RedM Passive Mode, **Copyright (c) 2022 CRAIG JACKSON**
+RedM Passive Mode, **Copyright (c) 2023 CRAIG JACKSON**
 
 https://github.com/92jackson/redm-passive-mode
 
